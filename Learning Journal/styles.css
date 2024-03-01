@@ -6,6 +6,8 @@ body{
     margin: 0;
    
 }
+header h1{
+    font-size:20px
 header{
   
     width: auto;
